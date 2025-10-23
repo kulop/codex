@@ -1,0 +1,6 @@
+gaiji_id,unicode_codepoint,character,reading,radical,stroke_count,pua_codepoint,notes
+G001,U+6F22,漢,かん,水,14,,Common Kanji mapping for gaiji representing 'han'.
+G002,U+56FD,国,こく,囗,8,,Historical gaiji variant mapped to simplified character.
+G003,U+908A,邊,へん,辵,24,U+E000,Traditional form requiring radical check.
+G004,U+9AD9,高,こう,高,10,,Frequent gaiji for surname 'Takashi'.
+G005,U+908F,邏,ら,辵,25,U+E001,Variant with additional strokes.
